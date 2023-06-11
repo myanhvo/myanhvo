@@ -2,7 +2,9 @@
 Hi 👋, I'm Anh Vo
 </h1>
 
-<img align="center" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<div align= "center">
+  <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+</div>
 
 <p> I am a Data Science and Statistics student at Miami University.  I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms</p>
 
