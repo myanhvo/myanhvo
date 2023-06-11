@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anh Vo</h1>
-<h2 align="center">A Data Science and Statistics Student</h2>
+<h1 align="center">
+Hi 👋, I'm Anh Vo
+</h1>
 
-<img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="center" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+
+<p> I am a Data Science and Statistics student at Miami University.  I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms</p>
+
 <h2 align="left">💡 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/anh-vo-thuy-my/"><img src="https://img.shields.io/badge/-Anh%20Vo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
