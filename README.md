@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anh Vo</h1>
 <h3 align="center">A Data Science and Statistics Student</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flimitlessdatascience.wordpress.com%2Fanalytics%2F&psig=AOvVaw3M2p7YcfXcBE9VtKpUPno_&ust=1686595025672000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjig57uu_8CFQAAAAAdAAAAABAQ">
+
 - 🌱 I’m currently learning **Google Data Analytics, GCP, Pytorch**
 
 - 🔭 I’m currently working on [ABA Client Analysis](https://github.com/myanhvo/ABA_ClientAnalysis/tree/main)
