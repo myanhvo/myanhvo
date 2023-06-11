@@ -28,7 +28,7 @@ Hi 👋, I'm Anh Vo
 
 - 📫 How to reach me **vothuymyanh@gmail.com**
 
-- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/drive/u/1/my-drive) !
+- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing) !
 
 - ⚡ Fun fact: **I own two beautiful cats who love watching me work :)**
 
