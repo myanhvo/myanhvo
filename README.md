@@ -6,7 +6,7 @@ Hi 👋, I'm Anh Vo
   <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 </div>
 
-<p> I am a Data Science and Statistics student at Miami University.  I have a strong foundation in Statistics (Predictive, Inferential, Regression Analysis) with a background in Machine Learning and Data Structures/Algorithms</p>
+<p> I am a Data Science and Statistics student at Miami University, with a minor in Computer Science. I am working as a Data Analytics Summer Intern at Westfield, where I conducted sentiment analysis on customer interactions and utilized analytics tools to analyze diverse data sources. I also work as a Research Analyst at the IRLG Lab, where I employed statistical modeling and programming skills to collect and interpret data for healthcare research studies. In addition to a strong background in data analysis, visualization, and machine learning techniques, I am also proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools.</p>
 
 <h2 align="left">💡 Connect with me:</h2>
 <p align="left">
