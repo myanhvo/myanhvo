@@ -30,7 +30,7 @@ Hi 👋, I'm Anh Vo
 
 - 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing) !
 
-- ⚡ Fun fact: **I own two beautiful cats who love watching me work :)**
+- ⚡ Fun fact: **I have two beautiful cats who love watching me work :)**
 
 <h2 align="left">🌐 Languages and Tools:</h2>
 <p align="left"> 
