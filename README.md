@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Anh Vo
+Hi 👋, I'm Mia Vo
 </h1>
 
 <div align= "center">
