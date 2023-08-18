@@ -10,8 +10,8 @@ Hi 👋, I'm Mia Vo
 
 <h2 align="left">💡 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/anh-vo-thuy-my/"><img src="https://img.shields.io/badge/-Anh%20Vo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://miavo.netlify.app" target="_blank"><img src="https://img.shields.io/website?label=Anh%20's Porfolio&style=for-the-badge&up_color=FFB6C1&url=https://miavo.netlify.app"/></a>&nbsp
+<a href="https://www.linkedin.com/in/mia-vo/"><img src="https://img.shields.io/badge/-Mia%20Vo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://miavo.netlify.app" target="_blank"><img src="https://img.shields.io/website?label=Mia%20's Porfolio&style=for-the-badge&up_color=FFB6C1&url=https://miavo.netlify.app"/></a>&nbsp
 <a href="https://medium.com/@anh-vo">
     <img src="https://img.shields.io/badge/-Medium-c14438?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@anh-vo" />
   </a> 
