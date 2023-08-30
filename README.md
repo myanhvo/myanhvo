@@ -24,7 +24,7 @@ Hi 👋, I'm Mia Vo
 
 - 👩🏻‍💻 All of my projects are available at my [Portfolio](https://anhvo.netlify.app/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@anh-vo)
+- 📝 I will write articles on [Medium](https://medium.com/@anh-vo)
 
 - 📫 How to reach me **vothuymyanh@gmail.com**
 
