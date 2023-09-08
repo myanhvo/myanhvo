@@ -22,7 +22,7 @@ Hi 👋, I'm Mia Vo
 - 🔭 I’m currently working on [ABA Client Analysis](https://github.com/myanhvo/ABA_ClientAnalysis/tree/main)
 - 🌱 I’m learning **Google Data Analytics, GCP, Pytorch**
 
-- 👩🏻‍💻 All of my projects are available at my [Portfolio](https://anhvo.netlify.app/)
+- 👩🏻‍💻 All of my projects are available at my [Portfolio](https://miavo.netlify.app/)
 
 - 📝 I will write articles on [Medium](https://medium.com/@anh-vo)
 
