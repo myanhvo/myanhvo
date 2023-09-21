@@ -6,7 +6,6 @@ Hi 👋, I'm Mia Vo
   <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 </div>
     <p>Hello! I'm a senior at Miami University, majoring in Data Science and Statistics with a minor in Computer Science. Here's a quick overview of my experiences:</p>
-
     <ul>
         <li>
             <strong>Feasibility Informatics Intern @ Medpace</strong>
@@ -31,7 +30,6 @@ Hi 👋, I'm Mia Vo
             </ul>
         </li>
     </ul>
-
     <p>My passion lies in deciphering data's hidden stories and leveraging analytics to drive insights. If you ever need assistance with data analysis, visualization, or machine learning, feel free to reach out! Let's make data-driven decisions together! 📊💡</p>
 
 <h2 align="left">💡 Connect with me:</h2>
