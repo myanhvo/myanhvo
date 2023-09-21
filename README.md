@@ -5,8 +5,34 @@ Hi 👋, I'm Mia Vo
 <div align= "center">
   <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 </div>
+    <p>Hello! I'm a senior at Miami University, majoring in Data Science and Statistics with a minor in Computer Science. Here's a quick overview of my experiences:</p>
 
-<p> I am a Data Science and Statistics student at Miami University, with a minor in Computer Science. I am working as a Feasibility Informatics Intern at Medpace, where I programmed and customized R scripts to manipulate & analyze clinical trial data, optimizing data management process, and utilized SQL for data querying and structuring. Last summer, I worked as a Data Analytics Summer Intern at Westfield, where I conducted sentiment analysis on customer interactions and utilized analytics tools to analyze diverse data sources. I also work as a Research Analyst at the IRLG Lab, where I employed statistical modeling and programming skills to collect and interpret data for healthcare research studies. In addition to a strong background in data analysis, visualization, and machine learning techniques, I am also proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools.</p>
+    <ul>
+        <li>
+            <strong>Feasibility Informatics Intern @ Medpace</strong>
+            <ul>
+                <li>🚀 Programmed and customized R scripts for clinical trial data analysis</li>
+                <li>📊 Proficient in SQL for data querying and structuring</li>
+                <li>📈 Optimized data management processes</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Data Analytics Summer Intern @ Westfield</strong>
+            <ul>
+                <li>📊 Conducted sentiment analysis on customer interactions</li>
+                <li>🧐 Utilized analytics tools for diverse data sources analysis</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Research Analyst @ IRLG Lab</strong>
+            <ul>
+                <li>📊 Applied statistical modeling and programming for healthcare research</li>
+                <li>💻 Proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools</li>
+            </ul>
+        </li>
+    </ul>
+
+    <p>My passion lies in deciphering data's hidden stories and leveraging analytics to drive insights. If you ever need assistance with data analysis, visualization, or machine learning, feel free to reach out! Let's make data-driven decisions together! 📊💡</p>
 
 <h2 align="left">💡 Connect with me:</h2>
 <p align="left">
