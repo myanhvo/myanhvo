@@ -10,9 +10,8 @@ Hi 👋, I'm Mia Vo
         <li>
             <strong>Feasibility Informatics Intern @ Medpace</strong>
             <ul>
-                <li>🚀 Programmed and customized R scripts for clinical trial data analysis</li>
-                <li>📊 Proficient in SQL for data querying and structuring</li>
-                <li>📈 Optimized data management processes</li>
+                <li>🚀 Developed and implemented R scripts for data management and analysis</li>
+                <li>📈 Conducted analysis for proposal strategies and created data visualizations using PowerBI</li>
             </ul>
         </li>
         <li>
