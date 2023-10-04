@@ -56,7 +56,9 @@ Hi 👋, I'm Mia Vo
 - ⚡ Fun fact: **I have two beautiful cats who love watching me work :)**
 - 💡 Connect with me on LinkedIn!
 
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mia-vo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mia-vo?trk=profile-badge">Mia Vo</a></div>
               
