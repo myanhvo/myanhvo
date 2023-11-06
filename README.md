@@ -54,14 +54,7 @@ Hi 👋, I'm Mia Vo
 - 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing) !
 
 - ⚡ Fun fact: **I have two beautiful cats who love watching me work :)**
-- 💡 Connect with me on LinkedIn!
 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mia-vo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mia-vo?trk=profile-badge">Mia Vo</a></div>
-              
 
 <h2 align="left">🌐 Languages and Tools:</h2>
 <p align="left"> 
