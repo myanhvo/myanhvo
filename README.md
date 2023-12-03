@@ -49,7 +49,7 @@ Hi 👋, I'm Mia Vo
 
 - 📝 I will write articles on [Medium](https://medium.com/@anh-vo)
 
-- 📫 How to reach me **vothuymyanh@gmail.com**
+- 📫 How to reach me **miavo2268@gmail.com**
 
 - 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing) !
 
