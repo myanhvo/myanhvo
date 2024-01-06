@@ -8,10 +8,11 @@ Hi 👋, I'm Mia Vo
     <p>Hello! I'm a senior at Miami University, majoring in Data Science and Statistics with a minor in Computer Science. Here's a quick overview of my experiences:</p>
     <ul>
         <li>
-            <strong>Feasibility Informatics Intern @ Medpace</strong>
+            <strong>Data Science - Informatics Intern @ Medpace</strong>
             <ul>
                 <li>🚀 Developed and implemented R scripts for data management and analysis</li>
                 <li>📈 Conducted analysis for proposal strategies and created data visualizations using PowerBI</li>
+                <li>👩‍💻 Developed advanced SQL queries in Snowflake & integrated queries into PowerBI dashboards to automate analysis of enrollment patterns</li>
             </ul>
         </li>
         <li>
@@ -42,7 +43,7 @@ Hi 👋, I'm Mia Vo
 
 <h2> 📈 As a Data Enthusiast: </h2>
 
-- 🔭 I’m currently working on [ABA Client Analysis](https://github.com/myanhvo/ABA_ClientAnalysis/tree/main)
+- 🔭 I’m currently working on [Stroke Prediction Analysis](https://github.com/myanhvo/ABA_ClientAnalysis/tree/main)
 - 🌱 I’m learning **Google Data Analytics, GCP, Pytorch**
 
 - 👩🏻‍💻 All of my projects are available at my [Portfolio](https://miavo.netlify.app/)
