@@ -52,7 +52,7 @@ Hi 👋, I'm Mia Vo
 
 - 📫 How to reach me **miavo2268@gmail.com**
 
-- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1-bn6lvUti6-Q4BYBWzgCfDsFBFHV9GX-/view?usp=sharing) !
+- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view) !
 
 - ⚡ Fun fact: **I have two beautiful cats who love watching me work :)**
 
