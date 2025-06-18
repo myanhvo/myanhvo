@@ -60,8 +60,6 @@ Hi 👋, I'm Mia Vo
 - 👩🏻‍💻 All of my projects are available at my [Portfolio](https://miavo.netlify.app/)
 
 - 👩🏻‍🏫 View my authored publications on my [Google Scholar profile](https://scholar.google.com/citations?user=VtDnHHoAAAAJ&hl=en)
-- 
-- 📝 I will write articles on [Medium](https://medium.com/@anh-vo)
 
 - 📫 How to reach me **miavo2268@gmail.com**
 
