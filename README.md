@@ -25,14 +25,14 @@ Hi 👋, I'm Mia Vo
             </ul>
         </li>
         <li>
-            <strong>Data Analytics Summer Intern @ Westfield</strong>
+            <strong>Data Analytics Intern @ Westfield</strong>
             <ul>
                 <li>📊 Conducted sentiment analysis on customer interactions</li>
                 <li>🧐 Utilized analytics tools for diverse data sources analysis</li>
             </ul>
         </li>
         <li>
-            <strong>Research Analyst @ PNeuma Science Lab</strong>
+            <strong>Research Analyst @ Pneuma Science Lab</strong>
             <ul>
                 <li>📊 Applied statistical modeling and programming for healthcare research</li>
                 <li>💻 Proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools</li>
