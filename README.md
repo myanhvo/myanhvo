@@ -44,10 +44,15 @@ Hi 👋, I'm Mia Vo
 <h2 align="left">💡 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mia-vo/"><img src="https://img.shields.io/badge/-Mia%20Vo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://miavo.netlify.app" target="_blank"><img src="https://img.shields.io/website?label=Mia%20's Porfolio&style=for-the-badge&up_color=FFB6C1&url=https://miavo.netlify.app"/></a>&nbsp
+<a href="https://miavo.netlify.app" target="_blank">
+  <img src="https://img.shields.io/website?label=Mia%20%27s%20Portfolio&style=for-the-badge&up_color=FFB6C1&url=https://miavo.netlify.app"/>
+</a>&nbsp;
 <a href="https://medium.com/@anh-vo">
     <img src="https://img.shields.io/badge/-Medium-c14438?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@anh-vo" />
   </a> 
+<a href="https://scholar.google.com/citations?user=VtDnHHoAAAAJ&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
+</a>&nbsp;
 </p>
 
 <h2> 📈 As a Data Enthusiast: </h2>
