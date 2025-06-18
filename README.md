@@ -47,9 +47,6 @@ Hi 👋, I'm Mia Vo
 <a href="https://miavo.netlify.app" target="_blank">
   <img src="https://img.shields.io/website?label=Mia%20%27s%20Portfolio&style=for-the-badge&up_color=FFB6C1&url=https://miavo.netlify.app"/>
 </a>&nbsp;
-<a href="https://medium.com/@anh-vo">
-    <img src="https://img.shields.io/badge/-Medium-c14438?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@anh-vo" />
-  </a> 
 <a href="https://scholar.google.com/citations?user=VtDnHHoAAAAJ&hl=en" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
 </a>&nbsp;
@@ -62,6 +59,8 @@ Hi 👋, I'm Mia Vo
 
 - 👩🏻‍💻 All of my projects are available at my [Portfolio](https://miavo.netlify.app/)
 
+- 👩🏻‍🏫 View my authored publications on my [Google Scholar profile](https://scholar.google.com/citations?user=VtDnHHoAAAAJ&hl=en)
+- 
 - 📝 I will write articles on [Medium](https://medium.com/@anh-vo)
 
 - 📫 How to reach me **miavo2268@gmail.com**
