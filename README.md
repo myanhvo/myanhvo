@@ -5,14 +5,23 @@ Hi 👋, I'm Mia Vo
 <div align= "center">
   <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 </div>
-    <p>Hello! I'm a senior at Miami University, majoring in Data Science and Statistics with a minor in Computer Science. Here's a quick overview of my experiences:</p>
+    <p>Hello! I'm a Data Analyst @ UToledo. I graduated Cum Laude from Miami University with a Bachelor of Science in Data Science and Statistics and a minor in Computer Science. Here's a quick overview of my experiences:</p>
     <ul>
         <li>
-            <strong>Data Science - Informatics Intern @ Medpace</strong>
+            <strong>Data Analyst @ The University of Toledo</strong>
+            <ul>
+                <li>📊 Created 50+ Power BI reports tracking budgets, transactions, and student metrics</li>
+                <li>📝 Automated reporting pipelines and migrated 40+ SAP Crystal Reports using Oracle SQL and Power BI tools.</li>
+                <li>🔧 Rebuilt Health Science College’s Power BI system with dynamic input filters, removing manual .NET coding.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Data Science Intern @ Medpace</strong>
             <ul>
                 <li>🚀 Developed and implemented R scripts for data management and analysis</li>
                 <li>📈 Conducted analysis for proposal strategies and created data visualizations using PowerBI</li>
                 <li>👩‍💻 Developed advanced SQL queries in Snowflake & integrated queries into PowerBI dashboards to automate analysis of enrollment patterns</li>
+                <li>💻 Designed and executed a PowerBI app through intensive ETL process using Snowflake SQL for bid defenses. </li>
             </ul>
         </li>
         <li>
@@ -23,7 +32,7 @@ Hi 👋, I'm Mia Vo
             </ul>
         </li>
         <li>
-            <strong>Research Analyst @ IRLG Lab</strong>
+            <strong>Research Analyst @ PNeuma Science Lab</strong>
             <ul>
                 <li>📊 Applied statistical modeling and programming for healthcare research</li>
                 <li>💻 Proficient in Python, R, SQL, Tableau, and other analytics/machine learning tools</li>
@@ -52,9 +61,9 @@ Hi 👋, I'm Mia Vo
 
 - 📫 How to reach me **miavo2268@gmail.com**
 
-- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/1NPT9gMkNO_9YHVhrsCI0ervYa_-1QqTL/view) !
+- 📄 Know about my experiences from my resume [HERE](https://drive.google.com/file/d/128OOfx2NVmHT0-ut1ITp0NoK_J5NbZpU/view) !
 
-- ⚡ Fun fact: **I have two beautiful cats who love watching me work :)**
+- ⚡ Fun fact: **I have 3 beautiful cats who love watching me work :)**
 
 
 <h2 align="left">🌐 Languages and Tools:</h2>
